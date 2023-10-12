@@ -1,4 +1,4 @@
-# bootcamp projects
+# Bootcamp projects
 ## Microsoft Azure integration with MySQL database
  
 ### Production and development report on how gender is influenced at work.
