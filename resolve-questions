@@ -1,0 +1,3 @@
+14. Explique por que, neste caso supracitado, podemos apenas utilizar o mesclar e não o atribuir:
+- A escolha entre mesclar (join) e atribuir (assign) depende da estrutura dos dados e do que você deseja alcançar. Mesclar é usado para combinar dados de diferentes tabelas,
+enquanto atribuir é usado para adicionar colunas aos dados existentes. Neste caso, a mesclagem é apropriada porque estamos combinando dados de colaboradores e gerentes.
